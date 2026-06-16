@@ -2,8 +2,6 @@
 
 ProScan 是一个面向资产发现、子域收集、指纹识别与企业信息关联分析的 CLI 工具。
 
-本仓库仅用于发布 ProScan 的公开二进制文件，不包含源码。请在 Releases 页面下载对应平台的二进制文件。
-
 ## 下载
 
 - Windows x64: `proscan_windows_amd64.exe`
